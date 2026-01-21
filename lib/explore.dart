@@ -13,7 +13,7 @@ class _ExploreState extends State<Explore> {
     {
       "images": "assets/articel1.png",
       "title": "Roumor Has It: Lampard’s position under threat, ...",
-      "subtitle": "04 JAN 2021, 14:16",
+      "subtitle": "   04 JAN 2021, 14:16",
     },
     {
       "images": "assets/articel5.png",
